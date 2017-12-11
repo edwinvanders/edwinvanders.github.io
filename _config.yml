@@ -1,0 +1,8 @@
+title: jevds.github.io
+description: My GitHub pages
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
